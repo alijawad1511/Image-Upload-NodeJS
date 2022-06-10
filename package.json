@@ -1,0 +1,17 @@
+{
+  "name": "imageupload",
+  "version": "1.0.0",
+  "description": "This is an example of Image Upload in NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jawad Shah",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "hbs": "^4.2.0",
+    "multer": "^1.4.4"
+  }
+}
